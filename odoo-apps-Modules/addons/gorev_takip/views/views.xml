@@ -71,17 +71,17 @@
     <menuitem name="Görevler" id="gorev_takip.menu_1" parent="gorev_takip.menu_root" action="gorev_takip.action_window"/>
 
     <menuitem id="menu_search_adresler"
-              name="Adresler v3"
+              name="Adresler"
               parent="gorev_takip.menu_root"
               action="action_gorev_adres"/>
   
     <menuitem id="menu_search_ilaclar"
-              name="İlaçlar v3"
+              name="İlaçlar"
               parent="gorev_takip.menu_root"
               action="action_task_medicine"/>
 
     <menuitem id="menu_search_pilotlar"
-              name="Pilotlar v3"
+              name="Pilotlar"
               parent="gorev_takip.menu_root"
               action="action_task_pilot"/>
               
